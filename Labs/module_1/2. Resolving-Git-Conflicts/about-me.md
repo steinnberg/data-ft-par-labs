@@ -1,2 +1,5 @@
 Here some information about me:
-Birth town
+Birth town : 
+First name : 
+date : 
+
