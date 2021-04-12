@@ -1,8 +1,11 @@
 # Who am I
 
 * Where are you from?
+*   Framo Paris
 * What do you do?
+*   Physics student
 * Do you have previous experience with technology/data?
+*   a little bit
 
 # Why am I here
 
