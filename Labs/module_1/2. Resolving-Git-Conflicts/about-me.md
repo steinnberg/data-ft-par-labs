@@ -1,16 +1,18 @@
-Here some information about me:
+# Who am I
 
-Birth town : 
+* Where are you from?
+* What do you do?
+* Do you have previous experience with technology/data?
 
-First name : 
+# Why am I here
 
-date : 
+* What has brought you to Ironhack?
+* What knowledge/skills do you expect to learn in this bootcamp?
 
-place : 
+# What will I do after the bootcamp?
 
-Description : 
-
-gender : 
-
+* Which industry will you seek employment in?
+* What will your future role look like?
+* What is your career goal?
 
 
